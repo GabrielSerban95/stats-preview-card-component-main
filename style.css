@@ -106,7 +106,7 @@ h1 span {
     font-family: var(--ff-secundary);
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .card {
         display: flex;
         flex-direction: row-reverse;
